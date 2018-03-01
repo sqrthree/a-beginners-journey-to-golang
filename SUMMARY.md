@@ -7,3 +7,5 @@
     * [理解工作区](intro/workspace.md)
     * [Go 命令行](intro/cmd.md)
     * [代码编辑器](intro/code-editors.md)
+* [初识 Go](fundamentals/README.md)
+    * [Hello, World](fundamentals/hello-world.md)
