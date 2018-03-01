@@ -1,4 +1,4 @@
-all: serve
+all: clean serve
 .PHONY: all
 
 serve:
@@ -8,3 +8,7 @@ serve:
 build:
 	@gitbook build
 .PHONY: build
+
+clean:
+	@rm -rf ./_book
+.PHONY: clean
