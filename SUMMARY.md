@@ -9,3 +9,4 @@
     * [代码编辑器](intro/code-editors.md)
 * [初识 Go](fundamentals/README.md)
     * [Hello, World](fundamentals/hello-world.md)
+    * [代码结构](fundamentals/structure.md)
