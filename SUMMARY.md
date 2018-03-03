@@ -10,3 +10,4 @@
 * [初识 Go](fundamentals/README.md)
     * [Hello, World](fundamentals/hello-world.md)
     * [代码结构](fundamentals/structure.md)
+    * [变量](fundamentals/variables.md)
