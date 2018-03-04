@@ -11,3 +11,4 @@
     * [Hello, World](fundamentals/hello-world.md)
     * [代码结构](fundamentals/structure.md)
     * [变量](fundamentals/variables.md)
+    * [基本类型](fundamentals/basic-types.md)
