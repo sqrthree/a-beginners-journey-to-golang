@@ -15,7 +15,7 @@
     * [操作符](fundamentals/operators.md)
     * [函数](fundamentals/function.md)
     * [流程控制](fundamentals/flowcontrol.md)
-    * [导入导出](fundamentals/imports-and-export.md)
+    * [导入导出](fundamentals/imports-and-exports.md)
 * [登堂入室](more-types/README.md)
     * [指针](more-types/point.md)
     * [数组](more-types/array.md)
