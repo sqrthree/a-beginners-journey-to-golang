@@ -24,3 +24,4 @@
     * [结构体](more-types/struct.md)
     * [方法](more-types/methods.md)
     * [接口](more-types/interface.md)
+    * [并发](more-types/concurrency.md)
