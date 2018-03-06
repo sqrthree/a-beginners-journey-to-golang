@@ -23,3 +23,4 @@
     * [字典](more-types/map.md)
     * [结构体](more-types/struct.md)
     * [方法](more-types/methods.md)
+    * [接口](more-types/interface.md)
